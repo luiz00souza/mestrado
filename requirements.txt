@@ -1,7 +1,6 @@
-pandas
-folium
-geopandas
-geopandas
-fiona
-gdal
-streamlit-folium
+pandas==1.5.3
+folium==0.12.1
+geopandas==0.10.2
+fiona==1.8.21
+gdal==3.5.1
+streamlit-folium==0.9.0
