@@ -1,14 +1,6 @@
 import pandas as pd 
-# import folium
-# from streamlit_folium import folium_static
 import streamlit as st
-# import rasterio
-# import numpy as np
-# from folium.plugins import Fullscreen, MarkerCluster
-# import tempfile
-# from PIL import Image
 import matplotlib.pyplot as plt
-# import matplotlib.colors as mcolors
 
 # Função para carregar o raster, aplicar uma escala de cores e exibir no mapa
 # def display_raster(uploaded_file, colormap='viridis'):
