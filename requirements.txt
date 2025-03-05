@@ -1,3 +1,7 @@
 pandas
 folium
 geopandas
+geopandas
+fiona
+gdal
+streamlit-folium
