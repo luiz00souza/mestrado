@@ -1,6 +1,6 @@
 import pandas as pd 
 import streamlit as st
-import matplotlib.pyplot as plt
+
 
 # Função para carregar o raster, aplicar uma escala de cores e exibir no mapa
 # def display_raster(uploaded_file, colormap='viridis'):
